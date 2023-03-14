@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FPT_Food_Reviewer</string>
+    <string name="about_us">About us</string>
+    <string name="danh_s_ch_nh_h_ng">Danh sách nhà hàng</string>
+    <string name="logout">Logout</string>
+    <string name="l_ch_s_nh_gi">Lịch sử đánh giá</string>
+</resources>
